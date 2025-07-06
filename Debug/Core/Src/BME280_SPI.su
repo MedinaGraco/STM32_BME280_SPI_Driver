@@ -1,8 +1,0 @@
-../Core/Src/BME280_SPI.c:15:6:BME280_CS_LOW	16	static
-../Core/Src/BME280_SPI.c:19:6:BME280_CS_HIGH	16	static
-../Core/Src/BME280_SPI.c:24:19:BME280_ReadReg	32	static
-../Core/Src/BME280_SPI.c:43:19:BME280_WriteReg	24	static
-../Core/Src/BME280_SPI.c:59:19:BME280_ReadRegs	32	static
-../Core/Src/BME280_SPI.c:81:19:BME280_Init	32	static
-../Core/Src/BME280_SPI.c:134:19:BME280_ReadCalibration	56	static
-../Core/Src/BME280_SPI.c:175:19:BME280_ReadCompensatedData	384	static
